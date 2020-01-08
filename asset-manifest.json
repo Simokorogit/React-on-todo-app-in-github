@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-on-todo-app-in-github/static/css/main.b9420fb3.chunk.css",
+    "main.js": "/React-on-todo-app-in-github/static/js/main.c5b62007.chunk.js",
+    "main.js.map": "/React-on-todo-app-in-github/static/js/main.c5b62007.chunk.js.map",
+    "runtime-main.js": "/React-on-todo-app-in-github/static/js/runtime-main.e16d648f.js",
+    "runtime-main.js.map": "/React-on-todo-app-in-github/static/js/runtime-main.e16d648f.js.map",
+    "static/js/2.7f9f5bc7.chunk.js": "/React-on-todo-app-in-github/static/js/2.7f9f5bc7.chunk.js",
+    "static/js/2.7f9f5bc7.chunk.js.map": "/React-on-todo-app-in-github/static/js/2.7f9f5bc7.chunk.js.map",
+    "index.html": "/React-on-todo-app-in-github/index.html",
+    "precache-manifest.2f7696dddf0137cc283818a3f07907de.js": "/React-on-todo-app-in-github/precache-manifest.2f7696dddf0137cc283818a3f07907de.js",
+    "service-worker.js": "/React-on-todo-app-in-github/service-worker.js",
+    "static/css/main.b9420fb3.chunk.css.map": "/React-on-todo-app-in-github/static/css/main.b9420fb3.chunk.css.map",
+    "static/js/2.7f9f5bc7.chunk.js.LICENSE": "/React-on-todo-app-in-github/static/js/2.7f9f5bc7.chunk.js.LICENSE",
+    "static/media/logo.svg": "/React-on-todo-app-in-github/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e16d648f.js",
+    "static/js/2.7f9f5bc7.chunk.js",
+    "static/css/main.b9420fb3.chunk.css",
+    "static/js/main.c5b62007.chunk.js"
+  ]
+}
